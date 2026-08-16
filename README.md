@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Zenthos 👋</h1>
 
 <p align="center">
-  <b>AIGC 视觉工程师 · AI Agent 开发者</b><br/>
+  <b>AIGC · AI Agent 开发者 · 室内设计师</b><br/>
   <i>把群体智慧压缩为可复用系统，用 Agent 对抗熵增。</i>
 </p>
 
