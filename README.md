@@ -45,9 +45,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenthos-z&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenthos-z&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="stats.svg" alt="GitHub Stats" width="440"/>
+  <img src="top-langs.svg" alt="Top Languages" width="440"/>
 </div>
+
+<p align="center"><i>统计卡由 GitHub API 生成 · 定期更新</i></p>
 
 ---
 
