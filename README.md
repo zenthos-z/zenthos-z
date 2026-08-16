@@ -34,10 +34,6 @@
 | Project | What it does |
 |---------|-------------|
 | [**my-skills**](https://github.com/zenthos-z/my-skills) | Claude Code skills monorepo — 可复用的 Agent 技能集合 |
-| [**claude-skill-qunribao**](https://github.com/zenthos-z/claude-skill-qunribao) | 从微信群聊数据自动生成日报、周报、资源汇总和议题追踪报告 |
-| [**mermaid-pro**](https://github.com/zenthos-z/mermaid-pro) | 专业级 Mermaid 图表生成，实时语法校验，支持流程图/时序图/架构图等 |
-| [**quick-img**](https://github.com/zenthos-z/quick-img) | 通过 DMX API 快速生成高质量图片 |
-| [**systems-thinking-skill**](https://github.com/zenthos-z/systems-thinking-skill) | 基于丹尼斯·舍伍德《系统思考》方法论的结构化采访工具 |
 
 ## 💡 What I'm Focused On
 
