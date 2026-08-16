@@ -33,7 +33,7 @@
 
 | Project | What it does |
 |---------|-------------|
-| [**my-skills**](https://github.com/zenthos-z/my-skills) | Claude Code skills monorepo — 可复用的 Agent 技能集合 |
+| [**my-skills**](https://github.com/zenthos-z/my-skills) | Claude Code 技能集合 — [mermaid-pro](https://github.com/zenthos-z/my-skills/tree/main/mermaid-pro)（图表）· [systems-thinking](https://github.com/zenthos-z/my-skills/tree/main/systems-thinking)（系统思考）· [qunribao](https://github.com/zenthos-z/my-skills/tree/main/qunribao)（群日报）· [quick-img](https://github.com/zenthos-z/my-skills/tree/main/quick-img)（生图） |
 
 ## 💡 What I'm Focused On
 
