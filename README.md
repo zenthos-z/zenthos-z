@@ -42,15 +42,6 @@
 - 🎨 深耕 **AIGC 工程化**：prompt 策略自动收敛、视觉生成质量评估与校准
 - 📖 研究 **世界模型 / 强化学习**：智能体如何基于模型预测未来
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="stats.svg" alt="GitHub Stats" width="440"/>
-  <img src="top-langs.svg" alt="Top Languages" width="440"/>
-</div>
-
-<p align="center"><i>统计卡由 GitHub API 生成 · 定期更新</i></p>
-
 ---
 
 <div align="center">
