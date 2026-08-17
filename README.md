@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="ZENTHOS banner" width="100%">
+  <img src="banner.jpg" alt="ZENTHOS banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Zenthos 👋</h1>
